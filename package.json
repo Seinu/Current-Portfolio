@@ -1,0 +1,14 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "New updated Portfolio for Seinu fireflower",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w \"scss/\" -o \"dist/css/\" --recursive"
+  },
+  "author": "Seinu Fireflower",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
